@@ -1,4 +1,4 @@
-# by _nieinter
+# by _nieinter ;|
 from random import randint
 
 
